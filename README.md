@@ -1,5 +1,5 @@
 # eConnect Examples and Project Explanation 
-Welcome to the eConnect examples for Compleo Charging Software. 
+Welcome to the eConnect examples for vaylens. 
 In this repository, you'll find a collection of sample API requests and responses that showcase the capabilities of our services. 
 
 ## Contribute and Get Support
@@ -9,7 +9,7 @@ We encourage developers to actively participate and contribute to this repositor
 -   Commit your own API scripts and examples to share with the community.
 -   Share your creative ideas and use cases that demonstrate the versatility of our services. 
 -   Get in touch with us for any support or assistance you need.
--   If your not a developer, but you have some ideas, than feel free to post them on our [IdeaBoard](https://ideaboard.eoperate-portal.com/) or create an Github Issue
+-   If your not a developer, but you have some ideas, than feel free to post them on our [IdeaBoard](https://ideaboard.vaylens.com/b/feature-ideas/) or create an Github Issue
 
 ### How to Contribute
 
