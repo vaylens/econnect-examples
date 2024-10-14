@@ -32,4 +32,5 @@ To interact with our APIs, you will need an API key, which you can obtain by fol
 2. Ask your sales representative from Compleo or our [support](mailto:help@emobility.software) for access to the APIs. 
 3. Replace `username` and `password` in the examples below with your actual API key. 
 
-
+## External Projects based on the eConnect API's
+* [Stack Box - CPO Integration Dashboard](https://github.com/stackbox-co/cpoIntegrationDashboard)
